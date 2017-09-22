@@ -1,0 +1,2 @@
+# WeatherConfigDummie
+Configuration app dummie
